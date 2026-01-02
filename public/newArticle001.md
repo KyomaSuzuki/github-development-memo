@@ -1,10 +1,10 @@
 ---
 title: VS Code × GitHub でHPを作るときの開発フロー
 tags:
-  - "VS Code" 
-  - "GitHub" 
-  - "GitHub Pages"
-  - "qitta CLI"
+  - VSCode 
+  - GitHub
+  - GitHubPages
+  - qittaCLI
 private: false
 updated_at: '2026-01-02T15:34:20+09:00'
 id: a8b004ddbfda6cd3b3d3
