@@ -1,7 +1,10 @@
 ---
 title: VS Code × GitHub でHPを作るときの開発フロー
 tags:
-  - ''
+  - 'github'
+  - 'vscode'
+  - 'ホームページ制作'
+  - '開発フロー'
 private: false
 updated_at: ''
 id: null
