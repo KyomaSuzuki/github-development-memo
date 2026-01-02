@@ -10,7 +10,7 @@ slide: false
 ignorePublish: false
 ---
 
-# VS Code × GitHub でHPを作るときの開発フロー
+## VS Code × GitHub でHPを作るときの開発フロー
 
 ## 前提
 
@@ -26,7 +26,7 @@ ignorePublish: false
 * ❌ `main` で直接編集しない
 * ✅ **作業ごとにブランチを切る**
 
-```
+```bash
 main        ← 公開・安定版
 feature/*  ← 各作業用ブランチ
 ```
@@ -93,7 +93,7 @@ git add .
 git commit -m "Add works page"
 ```
 
-**コミットメッセージの例**
+#### コミットメッセージの例
 
 * `Update top page layout`
 * `Add profile section`
@@ -187,7 +187,7 @@ about.html
 
 ## GitHub Pages 設定確認
 
-**Settings → Pages**
+### Settings → Pages**
 
 * Branch: `main`
 * Folder: `/ (root)`
